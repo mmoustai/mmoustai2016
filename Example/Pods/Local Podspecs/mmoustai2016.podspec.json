@@ -1,0 +1,22 @@
+{
+  "name": "mmoustai2016",
+  "version": "0.1.0",
+  "summary": "A short description of mmoustai2016.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/mmoustai2016",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Melvin Moustaid": "melvinmoustaid@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/mmoustai2016.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "mmoustai2016/Classes/**/*"
+}

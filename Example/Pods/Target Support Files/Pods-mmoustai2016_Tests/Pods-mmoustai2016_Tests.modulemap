@@ -1,0 +1,6 @@
+framework module Pods_mmoustai2016_Tests {
+  umbrella header "Pods-mmoustai2016_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module mmoustai2016 {
+  umbrella header "mmoustai2016-umbrella.h"
+
+  export *
+  module * { export * }
+}

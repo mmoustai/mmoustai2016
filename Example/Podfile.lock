@@ -1,0 +1,16 @@
+PODS:
+  - mmoustai2016 (0.1.0)
+
+DEPENDENCIES:
+  - mmoustai2016 (from `../`)
+
+EXTERNAL SOURCES:
+  mmoustai2016:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  mmoustai2016: 1280fdbbb18e840e417377a9972425c9c928ab4e
+
+PODFILE CHECKSUM: fd8dfd83987589345bafabca9a1532772be39bda
+
+COCOAPODS: 1.0.1
